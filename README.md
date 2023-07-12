@@ -19,4 +19,4 @@ The Owner Of Fusion Client uses it too so dont worry its safe.
 Youtube Video: [Installation
 ](https://youtu.be/9mL_ps30bVI)
 # Download
-It Should be In the releases Tab. (else not released)
+It Should be In the releases Tab.
